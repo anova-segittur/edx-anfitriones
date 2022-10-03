@@ -5047,7 +5047,7 @@ msgstr "Antes de continuar, por favor {htmlStart} active su cuenta {htmlEnd}."
 msgid ""
 "{htmlStart}Want to change your email, name, or password instead?{htmlEnd}"
 msgstr ""
-"{htmlStart}En lugar de eso, ¿quieres cambiar tu correo electrónico, nombre o"
+"{htmlStart}En lugar de eso, ¿quieres cambiar su correo electrónico, nombre o"
 " contraseña?{htmlEnd}"
 
 #: lms/static/js/student_account/components/StudentAccountDeletion.jsx
@@ -5078,8 +5078,8 @@ msgid ""
 "Once your account is deleted, you cannot use it to take courses on the "
 "{platformName} app, {siteName}, or any other site hosted by {platformName}."
 msgstr ""
-"Una vez tu cuenta es borrada, no podrás usarla ni tomar cursos en la plataforma de "
-"{platformName}, {siteName}, ni en cualquier otro sitio relacionado."
+"Una vez se borre su cuenta, no podrás usarla ni tomar cursos en la plataforma formativa de "
+"{platformName} {link_start}https://www.turismo-formacion.com/{link_end} ni en cualquier otro sitio relacionado."
 
 #: lms/static/js/student_account/components/StudentAccountDeletion.jsx
 #: lms/static/js/student_account/components/StudentAccountDeletionModal.jsx
