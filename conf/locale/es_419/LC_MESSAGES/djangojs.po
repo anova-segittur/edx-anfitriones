@@ -5079,7 +5079,7 @@ msgid ""
 "{platformName} app, {siteName}, or any other site hosted by {platformName}."
 msgstr ""
 "Una vez se borre su cuenta, no podrás usarla ni tomar cursos en la plataforma formativa de "
-"{platformName} {link_start}https://www.turismo-formacion.com/{link_end} ni en cualquier otro sitio relacionado."
+"{platformName} https://www.turismo-formacion.com/ ni en cualquier otro sitio relacionado."
 
 #: lms/static/js/student_account/components/StudentAccountDeletion.jsx
 #: lms/static/js/student_account/components/StudentAccountDeletionModal.jsx
